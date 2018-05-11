@@ -12,6 +12,7 @@
 Binaries/
 Intermediate/
 Config/
+Resources/
 
 # Core dump
 core
